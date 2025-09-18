@@ -1,0 +1,4 @@
+a = int(input())
+b = int(input())
+sum = a*b
+print("The Product of a*b is", sum)
